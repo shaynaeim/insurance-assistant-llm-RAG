@@ -2,7 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) assistant for **Insurellm**, a fictional insurance technology company. Employees can ask questions about products, contracts, employees, and company information. Answers are grounded in an internal markdown knowledge base.
 
-This project is extracted from Week 5 of the [LLM Engineering](https://github.com/ed-donner/llm_engineering) course as a standalone repository.
 
 ## What it does
 
@@ -126,6 +125,3 @@ Notebooks may reference images under `../assets/` from the parent course repo; t
 - **contracts/** — Partner agreements
 - **employees/** — Staff profiles
 
-## License
-
-Course materials; use in line with the upstream [LLM Engineering](https://github.com/ed-donner/llm_engineering) repository terms.
